@@ -1,4 +1,4 @@
-# DSA-using-Python-programming-assignment-week-2-solutions-2022
+# Programming DSA-using-Python-programming-assignment-week-2-solutions-2022
 
 # Write a function intreverse(n) that takes as input a positive integer n and returns the integer obtained by reversing the digits in n.
 
